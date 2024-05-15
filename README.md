@@ -18,3 +18,8 @@ The project report includes an in-depth analysis of the simulation results, incl
 ## Conclusion
 
 The simulation results suggest that optimizing the number of chefs is crucial for maximizing profits while balancing customer service and resource utilization. Further details and insights can be found in the project report.
+
+## Contributors
+
+- Ignacio Fernández Sánchez-Pascuala.
+- Javier Castellano Soria.
